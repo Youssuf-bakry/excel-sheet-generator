@@ -1,4 +1,4 @@
-import Swal from "./node_modules/sweetalert2/src/sweetalert2.js";
+// import Swal from "./node_modules/sweetalert2/src/sweetalert2.js";
 
 let table = document.getElementsByClassName("sheet-body")[0],
   rows = document.getElementsByClassName("rows")[0],
