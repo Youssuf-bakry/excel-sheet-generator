@@ -1,0 +1,17 @@
+{
+  "name": "excel-sheet-generator",
+  "version": "1.0.0",
+  "description": "intern2grow",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "yosef bakry",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^9.17.4"
+  }
+}
